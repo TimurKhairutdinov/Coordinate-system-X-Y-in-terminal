@@ -1,0 +1,15 @@
+C:\Users\рент\Desktop\X&Y\X&Y\bin\Debug\net6.0\X&Y.exe
+C:\Users\рент\Desktop\X&Y\X&Y\bin\Debug\net6.0\X&Y.deps.json
+C:\Users\рент\Desktop\X&Y\X&Y\bin\Debug\net6.0\X&Y.runtimeconfig.json
+C:\Users\рент\Desktop\X&Y\X&Y\bin\Debug\net6.0\X&Y.dll
+C:\Users\рент\Desktop\X&Y\X&Y\bin\Debug\net6.0\X&Y.pdb
+C:\Users\рент\Desktop\X&Y\X&Y\obj\Debug\net6.0\X&Y.csproj.AssemblyReference.cache
+C:\Users\рент\Desktop\X&Y\X&Y\obj\Debug\net6.0\X&Y.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\рент\Desktop\X&Y\X&Y\obj\Debug\net6.0\X&Y.AssemblyInfoInputs.cache
+C:\Users\рент\Desktop\X&Y\X&Y\obj\Debug\net6.0\X&Y.AssemblyInfo.cs
+C:\Users\рент\Desktop\X&Y\X&Y\obj\Debug\net6.0\X&Y.csproj.CoreCompileInputs.cache
+C:\Users\рент\Desktop\X&Y\X&Y\obj\Debug\net6.0\X&Y.dll
+C:\Users\рент\Desktop\X&Y\X&Y\obj\Debug\net6.0\refint\X&Y.dll
+C:\Users\рент\Desktop\X&Y\X&Y\obj\Debug\net6.0\X&Y.pdb
+C:\Users\рент\Desktop\X&Y\X&Y\obj\Debug\net6.0\X&Y.genruntimeconfig.cache
+C:\Users\рент\Desktop\X&Y\X&Y\obj\Debug\net6.0\ref\X&Y.dll
